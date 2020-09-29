@@ -1,1 +1,1 @@
-# dycorrales-es.github.io
+# dycorrales.github.io/es
